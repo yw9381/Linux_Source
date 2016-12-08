@@ -11,23 +11,23 @@
 	```
 	wget https://raw.githubusercontent.com/yw9381/linux-source/master/CentOS/centos_5_aliyun.repo -O /etc/yum.repos.d/CentOS-5-ALiYun.repo
 	```
-- [CentOS 5 USTC](centos_5_ustc.repo)
+- [CentOS 5 USTC](centos_5_ustc.repo)  
 	```
 	wget https://raw.githubusercontent.com/yw9381/linux-source/master/CentOS/centos_5_ustc.repo -O /etc/yum.repos.d/CentOS-5-USTC.repo
 	```
-- [CentOS 6 ALiYun](centos_6_aliyun.repo)
+- [CentOS 6 ALiYun](centos_6_aliyun.repo)  
 	```
 	wget https://raw.githubusercontent.com/yw9381/linux-source/master/CentOS/centos_6_aliyun.repo -O /etc/yum.repos.d/CentOS-6-ALiYun.repo
 	```
-- [CentOS 6 USTC](centos_6_ustc.repo)
+- [CentOS 6 USTC](centos_6_ustc.repo)  
 	```
 	wget https://raw.githubusercontent.com/yw9381/linux-source/master/CentOS/centos_6_ustc.repo -O /etc/yum.repos.d/CentOS-6-USTC.repo
 	```
-- [CentOS 7 ALiYun](centos_7_aliyun.repo)
+- [CentOS 7 ALiYun](centos_7_aliyun.repo)  
 	```
 	wget https://raw.githubusercontent.com/yw9381/linux-source/master/CentOS/centos_7_aliyun.repo -O /etc/yum.repos.d/CentOS-7-ALiYun.repo
 	```
-- [CentOS 7 USTC](centos_7_ustc.repo)
+- [CentOS 7 USTC](centos_7_ustc.repo)  
 	```
 	wget https://raw.githubusercontent.com/yw9381/linux-source/master/CentOS/centos_7_ustc.repo -O /etc/yum.repos.d/CentOS-7-USTC.repo
 	```
