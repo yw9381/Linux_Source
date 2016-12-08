@@ -49,12 +49,18 @@ CONFIGURATION_PATH = ```/etc/apt/sources.list```
 
 #收录情况
 --------
-目前收录
 
-- [CentOS/Red Hat Enterprise Linux](CentOS/)
-- [Ubuntu](Ubuntu/)
-- [Debian](Debian/)
-
+- [x] [CentOS/Red Hat Enterprise Linux](CentOS/)
+- [x] [Ubuntu](Ubuntu/)
+- [x] [Debian](Debian/)
+- [ ] [Arch Linux](#)
+- [ ] [Kali Linux](#)
+- [ ] [Fedora](#)
+- [ ] [FreeBSD](#)
+- [ ] [OpenWrt](#)
+- [ ] [Homebrew](#)
+- [ ] [Docker](#)
+- [ ] [PyPI/pip](#)
 
 #其他
 -----
