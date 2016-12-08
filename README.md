@@ -4,21 +4,45 @@
 --------
 使用 wget 或是 curl 直接进行下载
 
-- 对于 RPM  
-	软件源的配置文件在  
-	```/etc/yum.repos.d/CentOS-Base.repo```
+**SOURCE_URL** 为相应的配置文件的下载地址
+**CONFIGURATION_PATH** 为配置文件的路径
 
-- 对于 DEB  
-	软件源的配置文件在  
-	```/etc/apt/sources.list```
+- 基于wget
+	```
+	wget SOURCE_URL -O CONFIGURATION_PATH
+	```
+- 基于curl
+	```
+	curl SOURCE_URL > CONFIGURATION_PATH
+	```
+
+软件源配置文件
+
+- 对于基于 CentOS/RHEL 的  
+	软件源的配置文件路径在  
+	```
+	/etc/yum.repos.d/CentOS-Base.repo
+	```
+
+- 对于基于 Debian 及其衍生版的  
+	软件源的配置文件路径在  
+	```
+	/etc/apt/sources.list
+	```
+- 对于基于 Ubuntu 及其衍生版的  
+	软件源的配置文件路径在  
+	```
+	/etc/apt/sources.list
+	```
+
 
 #收录情况
 --------
 目前收录
 
 - [CentOS/Red Hat Enterprise Linux](CentOS/README.md)
-- [Ubuntu](Ubuntu)
-- [Debian](Debian)
+- [Ubuntu](Ubuntu/README.md)
+- [Debian](Debian/README.md)
 
 
 #其他
