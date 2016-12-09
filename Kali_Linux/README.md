@@ -14,3 +14,7 @@
 	```
 	wget https://raw.githubusercontent.com/yw9381/linux-source/master/Kali_Linux/kali_rolling_ustc.list -O /etc/apt/sources.list
 	```
+- [Kali Linux Rolling 6 NeuSoft](kali_rolling_neusoft.list)  
+    ```
+    wget https://raw.githubusercontent.com/yw9381/linux-source/master/Kali_Linux/kali_rolling_neusoft.list -O /etc/apt/sources.list
+    ```
