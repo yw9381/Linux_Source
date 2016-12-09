@@ -1,0 +1,4 @@
+deb http://mirrors.aliyun.com/kali kali-rolling main non-free contrib
+deb-src http://mirrors.aliyun.com/kali kali-rolling main non-free contrib
+deb http://mirrors.aliyun.com/kali-security kali-rolling/updates main contrib non-free
+deb-src http://mirrors.aliyun.com/kali-security kali-rolling/updates main contrib non-free
