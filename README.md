@@ -51,6 +51,7 @@ CONFIGURATION_PATH = ```/etc/apt/sources.list```
 --------
 
 - [x] [CentOS/Red Hat Enterprise Linux](CentOS/)
+- [x] [CentOS/Red Hat Enterprise Linux Extra Packages for Enterprise Linux](CentOS_EPEL/)
 - [x] [Ubuntu](Ubuntu/)
 - [x] [Debian](Debian/)
 - [ ] [Arch Linux](#)
