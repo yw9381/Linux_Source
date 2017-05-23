@@ -1,6 +1,6 @@
 这里记录的是一些国内常用的 Linux 软件镜像源的配置文件，方便直接进行软件源的更换
 
-#如何使用
+# 如何使用
 --------
 使用 wget 或是 curl 直接进行下载
 
@@ -16,7 +16,7 @@
 	curl SOURCE_URL > CONFIGURATION_PATH
 	```
 
-##举例
+## 举例
 以 Debian 8 阿里云的配置举例  
 SOURCE_URL = ```https://raw.githubusercontent.com/yw9381/linux-source/master/Debian/debian_8_aliyun.list```  
 CONFIGURATION_PATH = ```/etc/apt/sources.list```  
@@ -30,7 +30,7 @@ CONFIGURATION_PATH = ```/etc/apt/sources.list```
 	curl https://raw.githubusercontent.com/yw9381/linux-source/master/Debian/debian_8_aliyun.list > /etc/apt/sources.list
 	```
 
-#配置文件
+# 配置文件
 --------
 - 对于基于 CentOS/RHEL 的软件源的配置文件路径在    
 	```
@@ -47,7 +47,7 @@ CONFIGURATION_PATH = ```/etc/apt/sources.list```
 	```
 
 
-#收录情况
+# 收录情况
 --------
 
 - [x] [CentOS/Red Hat Enterprise Linux](CentOS/)
@@ -55,7 +55,7 @@ CONFIGURATION_PATH = ```/etc/apt/sources.list```
 - [x] [Ubuntu](Ubuntu/)
 - [x] [Debian](Debian/)
 - [ ] [Arch Linux](#)
-- [ ] [Kali Linux](#)
+- [x] [Kali Linux](Kali/)
 - [ ] [Fedora](#)
 - [ ] [FreeBSD](#)
 - [ ] [OpenWrt](#)
@@ -63,6 +63,6 @@ CONFIGURATION_PATH = ```/etc/apt/sources.list```
 - [x] [Docker](Docker/)
 - [x] [PyPI/pip](pip/)
 
-#其他
+# 其他
 -----
 欢迎提出 issue 以便于我更好的去收集相关软件源配置信息
