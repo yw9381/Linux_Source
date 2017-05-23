@@ -60,8 +60,8 @@ CONFIGURATION_PATH = ```/etc/apt/sources.list```
 - [ ] [FreeBSD](#)
 - [ ] [OpenWrt](#)
 - [ ] [Homebrew](#)
-- [ ] [Docker](#)
-- [ ] [PyPI/pip](#)
+- [x] [Docker](Docker/)
+- [x] [PyPI/pip](pip/)
 
 #其他
 -----
