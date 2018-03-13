@@ -1,4 +1,2 @@
 deb http://mirrors.ustc.edu.cn/kali kali-rolling main non-free contrib
 deb-src http://mirrors.ustc.edu.cn/kali kali-rolling main non-free contrib
-deb http://mirrors.ustc.edu.cn/kali-security kali-rolling/updates main contrib non-free
-deb-src http://mirrors.ustc.edu.cn/kali-security kali-rolling/updates main contrib non-free
