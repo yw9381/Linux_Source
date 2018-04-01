@@ -1,8 +1,8 @@
-deb http://mirrors.ustc.edu.cn/debian squeeze main contrib non-free
-deb-src http://mirrors.ustc.edu.cn/debian squeeze main contrib non-free
+deb http://mirrors.ustc.edu.cn/debian oldstable main contrib non-free
+deb-src http://mirrors.ustc.edu.cn/debian oldstable main contrib non-free
 
-deb http://mirrors.ustc.edu.cn/debian squeeze-proposed-updates main contrib non-free
-deb-src http://mirrors.ustc.edu.cn/debian squeeze-proposed-updates main contrib non-free
+deb http://mirrors.ustc.edu.cn/debian oldstable-proposed-updates main contrib non-free
+deb-src http://mirrors.ustc.edu.cn/debian oldstable-proposed-updates main contrib non-free
 
-deb http://mirrors.ustc.edu.cn/debian squeeze-updates main contrib non-free
-deb-src http://mirrors.ustc.edu.cn/debian squeeze-updates main contrib non-free
+deb http://mirrors.ustc.edu.cn/debian oldstable-updates main contrib non-free
+deb-src http://mirrors.ustc.edu.cn/debian oldstable-updates main contrib non-free

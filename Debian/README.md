@@ -3,31 +3,18 @@
 
 # 收录情况
 --------
-目前收录了 Debian 6/7/8 ，软件源地址为**中科大**和**阿里云**  
+目前收录了 Debian 6/7/8/9/10 ，软件源地址为**中科大**和**阿里云**  
+Debian 6 (squeeze) 已经停止维护，相关软件源已经转入`oldstable`  
 
 具体列表如下
 
 - [Debian 6 ALiYun](debian_6_aliyun.list)  
-	```
-	wget https://raw.githubusercontent.com/yw9381/linux-source/master/Debian/debian_6_aliyun.list -O /etc/apt/sources.list
-	```
 - [Debian 6 USTC](debian_6_ustc.list)  
-	```
-	wget https://raw.githubusercontent.com/yw9381/linux-source/master/Debian/debian_6_ustc.list -O /etc/apt/sources.list
-	```
 - [Debian 7 ALiYun](debian_7_aliyun.list)  
-	```
-	wget https://raw.githubusercontent.com/yw9381/linux-source/master/Debian/debian_7_aliyun.list -O /etc/apt/sources.list
-	```
 - [Debian 7 USTC](debian_7_ustc.list)  
-    ```
-    wget https://raw.githubusercontent.com/yw9381/linux-source/master/Debian/debian_7_ustc.list -O /etc/apt/sources.list
-    ```
 - [Debian 8 ALiYun](debian_8_aliyun.list)  
-	```
-	wget https://raw.githubusercontent.com/yw9381/linux-source/master/Debian/debian_8_aliyun.list -O /etc/apt/sources.list
-	```
 - [Debian 8 USTC](debian_8_ustc.list)  
-    ```
-    wget https://raw.githubusercontent.com/yw9381/linux-source/master/Debian/debian_8_ustc.list -O /etc/apt/sources.list
-    ```
+- [Debian 9 ALiYun](debian_9_aliyun.list)
+- [Debian 9 USTC](debian_9_ustc.list)
+- [Debian 10 ALiYun](debian_10_aliyun.list)
+- [Debian 10 USTC](debian_10_ustc.list)
