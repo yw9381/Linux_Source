@@ -1,5 +1,0 @@
-[epel]
-name=CentOS-$releasever - Epel
-baseurl=http://mirrors.ustc.edu.cn/epel/8/Everything/$basearch
-enabled=1
-gpgcheck=0

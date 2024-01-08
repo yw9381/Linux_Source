@@ -1,0 +1,32 @@
+[base]
+name=CentOS-$releasever - Base
+baseurl=http://mirrors.cernet.edu.cn/centos-vault/$releasever/os/$basearch/
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+
+[updates]
+name=CentOS-$releasever - Updates
+baseurl=http://mirrors.cernet.edu.cn/centos-vault/$releasever/updates/$basearch/
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+
+[extras]
+name=CentOS-$releasever - Extras
+baseurl=http://mirrors.cernet.edu.cn/centos-vault/$releasever/extras/$basearch/
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+
+[centosplus]
+name=CentOS-$releasever - Plus
+baseurl=http://mirrors.cernet.edu.cn/centos-vault/$releasever/centosplus/$basearch/
+gpgcheck=0
+enabled=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+
+[epel]
+name=Extra Packages for Enterprise Linux 7 - $basearch
+baseurl=https://mirrors.cernet.edu.cn/epel/7/$basearch
+failovermethod=priority
+enabled=1
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
