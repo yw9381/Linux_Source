@@ -1,0 +1,2 @@
+deb http://mirrors.cernet.edu.cn/kali kali-rolling main non-free contrib
+# deb-src http://mirrors.cernet.edu.cn/kali kali-rolling main non-free contrib
