@@ -3,16 +3,19 @@
 安装Docker仅需要执行`apt install docker-ce -y`即可
 
 # 收录情况
---------
-目前收录了 Debian 7/8/9/10 ，软件源地址为**中科大**和**阿里云**  
+
+目前收录了 Debian 7/8/9/10 ，软件源地址为**校园网联合镜像站**
 
 具体列表如下
 
-- [Debian 7 Docker ALiYun](debian_7_aliyun_docker.list)  
-- [Debian 7 Docker USTC](debian_7_ustc_docker.list)  
-- [Debian 8 Docker ALiYun](debian_8_aliyun_docker.list)  
-- [Debian 8 Docker USTC](debian_8_ustc_docker.list)  
-- [Debian 9 Docker ALiYun](debian_9_aliyun_docker.list)  
-- [Debian 9 Docker USTC](debian_9_ustc_docker.list)  
-- [Debian 10 Docker ALiYun](debian_10_aliyun_docker.list)  
-- [Debian 10 Docker USTC](debian_10_ustc_docker.list)  
+- [Debian 12 Docker CerNet](debian_12_cernet_docker.list)
+- [Debian 11 Docker CerNet](debian_11_cernet_docker.list)
+- [Debian 10 Docker CerNet](debian_10_cernet_docker.list)
+
+# 安装
+
+```bash
+curl https://mirrors.cernet.edu.cn/docker-ce/linux/debian/gpg|apt-key add -
+apt update
+apt install docker-ce
+```
