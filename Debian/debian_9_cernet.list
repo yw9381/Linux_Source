@@ -1,0 +1,8 @@
+deb http://mirrors.cernet.edu.cn/debian-archive/debian stretch main contrib non-free
+# deb-src http://mirrors.cernet.edu.cn/debian-archive/debian stretch main contrib non-free
+
+deb http://mirrors.cernet.edu.cn/debian-archive/debian stretch-updates main contrib non-free
+# deb-src http://mirrors.cernet.edu.cn/debian-archive/debian stretch-updates main contrib non-free
+
+deb http://mirrors.cernet.edu.cn/debian-archive/debian stretch-backports main contrib non-free
+# deb-src http://mirrors.cernet.edu.cn/debian-archive/debian stretch-backports main contrib non-free

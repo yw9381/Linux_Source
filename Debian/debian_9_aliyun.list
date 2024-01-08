@@ -1,8 +1,0 @@
-deb http://mirrors.aliyun.com/debian/ strecth main non-free contrib
-deb-src http://mirrors.aliyun.com/debian/ strecth main non-free contrib
-
-deb http://mirrors.aliyun.com/debian/ strecth-backports main non-free contrib
-deb-src http://mirrors.aliyun.com/debian/ strecth-backports main non-free contrib
-
-deb http://mirrors.aliyun.com/debian/ strecth-proposed-updates main non-free contrib
-deb-src http://mirrors.aliyun.com/debian/ strecth-proposed-updates main non-free contrib

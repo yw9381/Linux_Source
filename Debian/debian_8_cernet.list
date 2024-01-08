@@ -1,0 +1,8 @@
+deb http://mirrors.cernet.edu.cn/debian-archive/debian jessie main contrib non-free
+# deb-src http://mirrors.cernet.edu.cn/debian-archive/debian jessie main contrib non-free
+
+deb http://mirrors.cernet.edu.cn/debian-archive/debian jessie-updates main contrib non-free
+# deb-src http://mirrors.cernet.edu.cn/debian-archive/debian jessie-updates main contrib non-free
+
+deb http://mirrors.cernet.edu.cn/debian-archive/debian jessie-backports main contrib non-free
+# deb-src http://mirrors.cernet.edu.cn/debian-archive/debian jessie-backports main contrib non-free

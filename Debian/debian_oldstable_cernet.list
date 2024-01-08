@@ -1,0 +1,11 @@
+deb http://mirrors.cernet.edu.cn/debian oldstable main contrib non-free
+deb-src http://mirrors.cernet.edu.cn/debian oldstable main contrib non-free
+
+deb http://mirrors.cernet.edu.cn/debian oldstable-proposed-updates main contrib non-free
+deb-src http://mirrors.cernet.edu.cn/debian oldstable-proposed-updates main contrib non-free
+
+deb http://mirrors.cernet.edu.cn/debian oldstable-updates main contrib non-free
+deb-src http://mirrors.cernet.edu.cn/debian oldstable-updates main contrib non-free
+
+deb http://mirrors.cernet.edu.cn/debian/ oldstable-backports main non-free contrib
+deb-src http://mirrors.cernet.edu.cn/debian/ oldstable-backports main non-free contrib

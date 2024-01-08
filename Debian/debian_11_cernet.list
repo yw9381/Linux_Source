@@ -1,0 +1,14 @@
+deb http://mirrors.cernet.edu.cn/debian/ bullseye main contrib non-free
+# deb-src http://mirrors.cernet.edu.cn/debian/ bullseye main contrib non-free
+
+deb http://mirrors.cernet.edu.cn/debian/ bullseye-updates main contrib non-free
+# deb-src http://mirrors.cernet.edu.cn/debian/ bullseye-updates main contrib non-free
+
+deb http://mirrors.cernet.edu.cn/debian/ bullseye-backports main contrib non-free
+# deb-src http://mirrors.cernet.edu.cn/debian/ bullseye-backports main contrib non-free
+
+deb http://mirrors.cernet.edu.cn/debian-security bullseye-security main contrib non-free
+# deb-src http://mirrors.cernet.edu.cn/debian-security bullseye-security main contrib non-free
+
+# deb http://security.debian.org/debian-security bullseye-security main contrib non-free
+# # deb-src http://security.debian.org/debian-security bullseye-security main contrib non-free
